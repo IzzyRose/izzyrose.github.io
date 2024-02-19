@@ -1,5 +1,5 @@
 # Isabelle Greenberg's Website
- My personal website exploration
+ My personal website exploration. Part of my studies.
 
 ## Update 2024: Upgrading to Next.js
 This site was previously used in my school years, and was a basic HTML/CSS page.
